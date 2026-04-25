@@ -16,8 +16,7 @@ export default function Contact() {
         <input className="w-full p-2 mb-3 rounded" placeholder="Email" />
         <textarea className="w-full p-2 mb-3 rounded" placeholder="Message" />
         <button className="bg-yellow-400 text-black px-4 py-2 rounded w-full">
-          Send
-             Send
+          Send Message
         </button>
       </div>
     </div>
